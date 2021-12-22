@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets load(com.google.api.client.json.JsonFactory, java.io.Reader)'>
+        <annotation name='android.support.annotation.NonNull' />
+    </item>
+</root>
